@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/33bbd48d-9bd5-45be-9cd4-835a7ce54176)
+
 # Welcome
 
 Welcome to Commit Queen! We are a dynamic web development firm dedicated to creating innovative and user-centric digital solutions. At Commit Queen, we combine creativity with technical expertise to build scalable and efficient web applications that meet the highest standards of quality.
